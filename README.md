@@ -1,11 +1,11 @@
-# SwagLabs - Appium 
+# SwagLabs - Appium:robot:
 ![Logo](https://www.saucedemo.com/static/media/Login_Bot_graphic.20658452.png)
 
- Testing some test cases for SwagLabs APK with appium using java and selenium while adding shaft in the pom.xml to get the reporting features and more. :robot:
+ Testing some test cases for SwagLabs APK with appium using java and selenium while adding shaft in the pom.xml to get the reporting features and more. 
 
 
 
- ## :dart:Test Cases
+ ## Test Cases:dart:
 
 
  - Login with valid username and passowrd.:smile:
@@ -17,7 +17,7 @@
 
 
 
-## :star2:Features
+## Features:star2:
 
 - Implemented modular design by using the Page Object Model design pattern. :boom:
 - Creating an automated test execution report
@@ -27,7 +27,7 @@
 
 
 
-## :gear:Installation
+## Installation:gear:
 
   - [@Maven](https://mvnrepository.com/)
   - [@Node.js](https://nodejs.org/en/download/)
@@ -40,6 +40,6 @@
     - Select TestNG > Listeners > and add these listeners one by one:
         com.shaft.tools.listeners.AlterSuiteListener, com.shaft.tools.listeners.SuiteListener, com.shaft.tools.listeners.InvokedMethodListener
 
-## :blush:Author
+## Author:blush:
 
 - [@AhmedOsama](https://github.com/Ahmed-Osama18)
