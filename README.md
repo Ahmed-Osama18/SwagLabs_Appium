@@ -38,7 +38,9 @@
         Due to a known issue with IntelliJ you need to edit your run configuration templates before running your tests by following these steps:
     - Open 'Edit Run/Debug Configurations' dialog > Edit Configurations... > Edit configuration templates...
     - Select TestNG > Listeners > and add these listeners one by one:
-        com.shaft.tools.listeners.AlterSuiteListener, com.shaft.tools.listeners.SuiteListener, com.shaft.tools.listeners.InvokedMethodListener
+        - com.shaft.tools.listeners.AlterSuiteListener
+        - com.shaft.tools.listeners.SuiteListener
+        - com.shaft.tools.listeners.InvokedMethodListener
 
 ## Author:blush:
 
