@@ -1,0 +1,9 @@
+{
+  "username": "standard_user",
+  "password": "secret_sauce",
+  "error_msg": "do not match any user",
+  "firstname": "Ahmed",
+  "lastname": "Osama",
+  "zipCode": "12597",
+  "success_msg": "THANK YOU FOR YOU ORDER"
+}

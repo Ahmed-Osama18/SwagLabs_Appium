@@ -1,0 +1,13 @@
+
+################################################################################################################################################
+Starting Execution:	"2 out of 3" test cases in the current suite
+Test Method:		"tests.CartTest.validateCheckout"
+################################################################################################################################################
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/TestDataFiles/Data.json"". @02-01-2023 18:50:14.0745 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/TestDataFiles/Data.json"". @02-01-2023 18:50:14.0745 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/TestDataFiles/Data.json"". @02-01-2023 18:50:15.0904 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/TestDataFiles/Data.json"". @02-01-2023 18:50:15.0904 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/TestDataFiles/Data.json"". @02-01-2023 18:50:16.0479 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/TestDataFiles/Data.json"". @02-01-2023 18:50:16.0479 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/TestDataFiles/Data.json"". @02-01-2023 18:50:22.0444 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/TestDataFiles/Data.json"". @02-01-2023 18:50:22.0445 PM

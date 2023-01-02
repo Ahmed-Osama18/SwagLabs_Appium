@@ -1,7 +1,7 @@
 # SwagLabs - Appium:robot:
 ![Logo](https://www.saucedemo.com/static/media/Login_Bot_graphic.20658452.png)
 
- Testing some test cases for SwagLabs APK with appium using java and selenium while adding shaft in the pom.xml to get the reporting features and more. 
+ Testing a few test cases for SwagLabs APK using appium, and adding shaft to pom.xml to obtain reporting features. 
 
 
 
@@ -41,7 +41,3 @@
         - com.shaft.tools.listeners.AlterSuiteListener
         - com.shaft.tools.listeners.SuiteListener
         - com.shaft.tools.listeners.InvokedMethodListener
-
-## Author:blush:
-
-- [@AhmedOsama](https://github.com/Ahmed-Osama18)
